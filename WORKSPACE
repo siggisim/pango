@@ -36,13 +36,13 @@ go_repository(
 
 go_repository(
     name = "com_github_dimfeld_httptreemux",
-    commit = "7f532489e7739b3d49df5c602bf63549881fe753",
+    commit = "a454a10de4a11f751681a0914461ab9e98c2a3ff",
     importpath = "github.com/dimfeld/httptreemux",
 )
 
 go_repository(
     name = "com_github_goadesign_goa",
-    commit = "fc29b77a218fb9e190849c81911ed12d25e771de",
+    commit = "4232a4069ac75fc357027b58da0266f557e49cac",
     importpath = "github.com/goadesign/goa",
 )
 
@@ -78,13 +78,13 @@ go_repository(
 
 go_repository(
     name = "com_github_spf13_cobra",
-    commit = "ef82de70bb3f60c65fb8eebacbb2d122ef517385",
+    commit = "f2b07da1e2c38d5f12845a4f607e2e1018cbb1f5",
     importpath = "github.com/spf13/cobra",
 )
 
 go_repository(
     name = "com_github_spf13_pflag",
-    commit = "583c0c0531f06d5278b7d917446061adc344b5cd",
+    commit = "2e9d26c8c37aae03e3f9d4e90b7116f5accb7cab",
     importpath = "github.com/spf13/pflag",
 )
 
